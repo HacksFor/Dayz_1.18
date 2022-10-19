@@ -1,4 +1,4 @@
-# Dayz_1.18
+# Dayz_1.18 (updating)
 Dayz wallhack for current game version
 Functionalities: wallhack (information about enemy position, distance (in meters), current session time(in seconds))<br /><br />
 Overall informaation: color indicates distance for easier orientation (<200m = green; 200 = red; >200m blue; dead = black, watch screenshots); first number under enemy is distance; second number - time of current session in seconds (updates every two seconds coz of technical issues).<br /><br />
